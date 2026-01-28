@@ -25,4 +25,4 @@ replay_pid*
 /build/
 /dist/
 /src/pj_asterix/Db_mariadb.java
-/src/pj_asterix/CL_Connexion.java
+/src/pj_asterix/CL_Connection.java
