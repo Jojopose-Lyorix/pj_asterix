@@ -1,5 +1,4 @@
-src/pj_listecourse/Cl_Connection.java
-src/pj_listecourse/Db_mariadb.java
+src/pj_asterix/Cl_Connection.java
 /build
 /nbproject
 
