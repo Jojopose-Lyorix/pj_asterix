@@ -11,7 +11,7 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar#
 *.war
 *.nar
 *.ear
@@ -23,6 +23,6 @@
 hs_err_pid*
 replay_pid*
 /build/
-/dist/
-/src/pj_asterix/Db_mariadb.java
-/src/pj_asterix/CL_Connection.java
+nbproject/
+dist/
+src/pj_asterix/CL_Connection.java
